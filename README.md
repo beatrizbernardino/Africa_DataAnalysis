@@ -1,5 +1,8 @@
-# Projeto1
-projeto1 de ciencia dos dados
-notebook sujo: projeto1 
+# Análise de Dados
 
-notebook limpo: projeto1_final
+Esse repositório possui uma análise baseada na seguinte pergunta:
+
+#### Após a criação da União Africana, os países membros tiveram um aumento de investimentos, e por isso a expectativa de vida aumentou ?
+
+
+
